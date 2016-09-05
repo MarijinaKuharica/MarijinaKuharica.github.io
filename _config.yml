@@ -10,8 +10,8 @@ title: Marijina Kuharica
 email: Insomnia15@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Najbolji i najukusniji recepti na jednom mjestu.
-baseurl: "https://cyberwolf8.github.io/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://marijinakuharica.github.io/" # the base hostname & protocol for your site
 twitter_username: Marija
 github_username:  Marija
 
